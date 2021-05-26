@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\CircuitsApp\CircuitsApp\CircuitsApp\bin\Debug\CircuitsApp.exe.config
+C:\Users\Usuario\Desktop\CircuitsApp\CircuitsApp\CircuitsApp\bin\Debug\CircuitsApp.exe
+C:\Users\Usuario\Desktop\CircuitsApp\CircuitsApp\CircuitsApp\bin\Debug\CircuitsApp.pdb
+C:\Users\Usuario\Desktop\CircuitsApp\CircuitsApp\CircuitsApp\obj\Debug\CircuitsApp.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\CircuitsApp\CircuitsApp\CircuitsApp\obj\Debug\CircuitsApp.Form1.resources
+C:\Users\Usuario\Desktop\CircuitsApp\CircuitsApp\CircuitsApp\obj\Debug\CircuitsApp.Properties.Resources.resources
+C:\Users\Usuario\Desktop\CircuitsApp\CircuitsApp\CircuitsApp\obj\Debug\CircuitsApp.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\CircuitsApp\CircuitsApp\CircuitsApp\obj\Debug\CircuitsApp.exe
+C:\Users\Usuario\Desktop\CircuitsApp\CircuitsApp\CircuitsApp\obj\Debug\CircuitsApp.pdb
+C:\Users\Usuario\Desktop\CircuitsApp\CircuitsApp\CircuitsApp\obj\Debug\CircuitsApp.FormLista.resources
+C:\Users\Usuario\Desktop\CircuitsApp\CircuitsApp\CircuitsApp\obj\Debug\CircuitsApp.FormLista3.resources
